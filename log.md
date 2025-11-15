@@ -11,3 +11,4 @@
 | 11/8/25 | Vercel/supbase setup | 1 hr |
 | 11/10/25 | "" | 1.5 hr |
 | 11/12/25 | "" | 1.5 hr |
+| 11/12/25 | Fixing Database schema | 2 hr |
