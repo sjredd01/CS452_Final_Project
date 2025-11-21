@@ -14,3 +14,7 @@
 | 11/10/25 | "" | 1.5 hr |
 | 11/12/25 | "" | 1.5 hr |
 | 11/12/25 | Fixing Database schema | 2 hr |
+| 11/15/25 | Finally fixed database | 1.5 hr |
+| 11/19/25 | Research SES and help Sam with PR | 1 hr |
+| 11/20/25 | improve user flow (back buttons) | 1 hr |
+
