@@ -5,7 +5,7 @@
 | 11/10/25 | Removing scss duplication | 4hr |
 | 11/17/25 | Removing more duplication | 5hr |
 | 11/18/25 | Adding color picker | 3hr |
-
+| 11/24/25 | Writing final report | 1hr |
 
 *Micah Log*
 | Date | What | Hours |
