@@ -3,6 +3,9 @@ Our project is a maintance ticket dashboard and reporting system. A Landlord can
 When an apartment or house is added to the dashboard a sharable id is created. THe sharable id can be given to tenets so they can go to the website and submit a ticket that shows up
 on the landlords dashboard. Both the landlord and tenet can track the status of their ticket.
 
+**Demo**
+The photos are in the zip file.
+
 **What did you learn**
 We learned how to make a dynamic colored front end, how to connect it to a database and make in a way that is scalable. 
 
