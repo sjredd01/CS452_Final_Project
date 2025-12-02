@@ -1,6 +1,7 @@
 *Sam Log*
 | Date | What | Hours |
 |----------|----------|----------|
+| 11/5/25 | Setting up the app | 8 hr |
 | 11/9/25 | setting up variable colors | 2 hr |
 | 11/10/25 | Removing scss duplication | 4hr |
 | 11/17/25 | Removing more duplication | 5hr |
