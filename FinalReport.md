@@ -25,3 +25,5 @@ This project is interesting because it can help people submit and track maintane
 
 **Explination:**
 All of the failover strategies scaling and performances characteristics are handled by Vercel and Supabase
+
+**NOTE** Please do not share this idea or github with future students 
