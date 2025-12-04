@@ -19,4 +19,5 @@
 | 11/15/25 | Finally fixed database | 1.5 hr |
 | 11/19/25 | Research SES and help Sam with PR | 1 hr |
 | 11/20/25 | improve user flow (back buttons) | 1 hr |
+| 12/3/25 | improve user flow (back buttons) | 2 hr |
 
